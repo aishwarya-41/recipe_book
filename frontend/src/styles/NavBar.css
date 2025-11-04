@@ -1,0 +1,48 @@
+.navbar
+{
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 10px solid rgb(210, 244, 179);
+}
+
+.navbar-logo
+{
+    max-width: 150px;
+}
+
+.navbar-link
+{
+    background-color: rgb(141, 210, 82);
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+
+.navbar-link-not
+{
+    background-color: orange;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.navbar-link-not:hover
+{
+    box-shadow:  0 2px 25px orange;
+    transition: all 0.2s ease-in-out;
+}
+.links
+{
+    margin-top: 70px;
+}

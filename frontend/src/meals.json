@@ -1,0 +1,144 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "Spaghetti Bolognese :)",
+      "category": "Pasta",
+      "ingredients": [
+        "Spaghetti",
+        "Ground Beef",
+        "Tomato Sauce",
+        "Onion",
+        "Garlic",
+        "Olive Oil"
+      ],
+      "instructions": "Cook spaghetti. In another pan, sauté onion and garlic, add ground beef, cook until browned. Add tomato sauce, simmer for 20 minutes. Serve with spaghetti.",
+      "isFavorite": true
+    },
+    {
+      "id": "2",
+      "name": "Chicken Curry",
+      "category": "Curry",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Curry Powder",
+        "Coconut Milk"
+      ],
+      "instructions": "Sauté onion, garlic, and ginger. Add chicken pieces, cook until lightly browned. Stir in curry powder, add coconut milk, and simmer until chicken is cooked.",
+      "isFavorite": false
+    },
+    {
+      "id": "3",
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "ingredients": [
+        "Romaine Lettuce",
+        "Croutons",
+        "Parmesan Cheese",
+        "Caesar Dressing"
+      ],
+      "instructions": "Chop lettuce, toss with dressing, croutons, and grated Parmesan.",
+      "isFavorite": false
+    },
+    {
+      "id": "4",
+      "name": "Vegetable Stir Fry",
+      "category": "Vegetarian",
+      "ingredients": [
+        "Mixed Vegetables",
+        "Soy Sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame Oil"
+      ],
+      "instructions": "Heat sesame oil, sauté garlic and ginger. Add vegetables, stir fry for 5 minutes, add soy sauce, and serve hot.",
+      "isFavorite": false
+    },
+    {
+      "id": "5",
+      "name": "Pancakes",
+      "category": "Breakfast",
+      "ingredients": [
+        "Flour",
+        "Milk",
+        "Eggs",
+        "Baking Powder",
+        "Sugar",
+        "Butter"
+      ],
+      "instructions": "Mix dry and wet ingredients separately, then combine. Pour batter onto a hot pan, cook until bubbles form, flip and cook the other side.",
+      "isFavorite": false
+    },
+    {
+      "id": "6",
+      "name": "Grilled Cheese Sandwich",
+      "category": "Snack",
+      "ingredients": [
+        "Bread",
+        "Cheddar Cheese",
+        "Butter"
+      ],
+      "instructions": "Butter the bread, place cheese between slices, grill until golden brown.",
+      "isFavorite": false
+    },
+    {
+      "id": "7",
+      "name": "Tomato Soup",
+      "category": "Soup",
+      "ingredients": [
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Vegetable Broth",
+        "Cream"
+      ],
+      "instructions": "Cook onion and garlic, add chopped tomatoes and broth, simmer until soft. Blend until smooth, add cream before serving.",
+      "isFavorite": false
+    },
+    {
+      "id": "8",
+      "name": "Beef Tacos",
+      "category": "Mexican",
+      "ingredients": [
+        "Taco Shells",
+        "Ground Beef",
+        "Lettuce",
+        "Cheddar Cheese",
+        "Salsa"
+      ],
+      "instructions": "Cook beef with seasoning. Fill taco shells with beef, lettuce, cheese, and salsa.",
+      "isFavorite": false
+    },
+    {
+      "id": "9",
+      "name": "Chocolate Brownies",
+      "category": "Dessert",
+      "ingredients": [
+        "Flour",
+        "Cocoa Powder",
+        "Sugar",
+        "Eggs",
+        "Butter"
+      ],
+      "instructions": "Mix dry and wet ingredients, pour into a baking tin, and bake at 180°C for 25-30 minutes.",
+      "isFavorite": false
+    },
+    {
+      "id": "10",
+      "name": "Fried Rice",
+      "category": "Asian",
+      "ingredients": [
+        "Cooked Rice",
+        "Eggs",
+        "Vegetables",
+        "Soy Sauce",
+        "Garlic"
+      ],
+      "instructions": "Scramble eggs, add vegetables and garlic, stir fry, then add rice and soy sauce.",
+      "isFavorite": false
+    }
+  ]
+}

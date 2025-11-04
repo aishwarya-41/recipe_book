@@ -1,0 +1,19 @@
+.view-recipes
+{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding: 40px;
+    font-size: 30px;
+}
+
+.view-recipes h1
+{
+    font-family: fantasy;
+}
+
+.arrow
+{
+    text-decoration: none;
+     color: white;
+}

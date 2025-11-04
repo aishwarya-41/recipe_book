@@ -1,0 +1,43 @@
+.notFound
+{
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 20px;
+
+}
+
+
+.notFound-triangle
+{
+    color: rgb(255, 221, 0);
+    font-size: 100px;
+    margin: 10px;
+}
+
+.notFound-status
+{
+    font-size: 80px;
+    margin: 10px;
+}
+
+.notFound-text
+{
+     margin-bottom: 50px;
+     font-size: 80px;
+}
+
+
+.notFound-back
+{
+    background-color: rgb(141, 210, 82);
+    margin: 10px;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+

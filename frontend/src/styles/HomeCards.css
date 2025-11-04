@@ -1,0 +1,57 @@
+.homeCard
+{
+    background-color: white;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.search-recipes
+{
+    background-color: rgb(244, 220, 176);
+    max-width: 400px;
+    padding: 75px;
+    border-radius: 20px;
+    margin: 50px;
+    border-left: orange 5px solid;
+}
+
+.search-recipes-button
+{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.add-recipes
+{
+    background-color: rgb(216, 248, 187);
+    max-width: 400px;
+    padding: 75px;
+    border-radius: 20px;
+    margin: 50px;
+    border-left:  rgb(141, 210, 82) 5px solid;
+}
+
+.add-recipes-button
+{
+    background-color: rgb(141, 210, 82);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.search-recipes h2, .add-recipes h2
+{
+    margin: 10px;
+}
+
+.search-recipes p, .add-recipes p
+{
+    margin-bottom: 30px;
+}

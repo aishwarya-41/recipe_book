@@ -1,0 +1,127 @@
+.meal 
+{
+    max-width: 400px;
+    background-color: rgb(205, 247, 247);
+    margin: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    border-left: teal 5px solid;
+     box-shadow: 0 2px 10px grey;
+}
+
+.meal li
+{
+    list-style: none;
+    border-bottom: teal 2px solid;
+    margin-top: 10px;
+}
+
+.meal p,h1
+{
+    margin: 10px 0px;
+}
+
+.meals
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.greenHeading
+{
+    background-color:  rgb(141, 210, 82);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.orangeHeading
+{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+.meals-main
+{
+    background-color: rgb(210, 244, 179);
+    padding: 20px;
+}
+
+.mealHeading
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+.not-fav-button
+{
+    background-color: teal;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin: 10px 0px;
+}
+
+.not-fav-button:hover
+{
+    background-color: rgb(3, 63, 63);
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+
+.fav-button
+{
+    background-color: rgb(205, 247, 247);
+    color: teal;
+    border: none;
+    font-size: 25px;
+}
+
+.fav-button:hover
+{
+    background-color: rgb(205, 247, 247);
+    color: rgb(214, 196, 196);
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+.remove-item
+{
+    background-color: inherit;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.remove-item:hover
+{
+    cursor: pointer;
+    color: rgb(19, 101, 46);
+    font-size: 24px;
+     margin-left: 6px;
+    transition: all 0.2s ease-in-out;
+}
+
+.edit-meal
+{
+    background-color: inherit;
+    color: teal;
+    border: none;
+    border-bottom: teal 2px solid;
+    text-decoration: none;
+}
+
